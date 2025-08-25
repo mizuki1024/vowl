@@ -10,5 +10,5 @@
 ```
 git clone https://github.com/mizuki1024/vowl.git
 cd vowl
-Python3 MFCC/MFCC34simple.py
+Python3 MFCC/MFCC45simple.py
 ```
